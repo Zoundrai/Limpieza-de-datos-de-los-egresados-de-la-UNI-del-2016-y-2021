@@ -20,16 +20,9 @@ Este proyecto analiza los patrones de acceso a la Universidad Nacional de Ingeni
 ## 📁 Estructura del proyecto
 
 ```
-├── data/
-│   ├── uni_2016.csv          # Dataset original 2016
-│   └── uni_2021.csv          # Dataset original 2021
 ├── notebooks/
 │   ├── 01_limpieza.ipynb     # Limpieza y preparación de datos
 │   └── 02_analisis.ipynb     # Análisis exploratorio y visualizaciones
-├── dashboard/
-│   └── uni_admision.pbix     # Dashboard Power BI
-├── outputs/
-│   └── graficos/             # Gráficos exportados
 └── README.md
 ```
 
@@ -67,13 +60,6 @@ Las carreras con mayor número de ingresantes en ambos años son [completar]. Se
 [Completar con tu hallazgo — por ejemplo: "Los postulantes de nivel socioeconómico bajo se concentran en carreras como X, mientras que los de nivel alto tienden a postular a Y."]
 
 ---
-
-## 📊 Visualizaciones
-
-> *(Agrega aquí capturas de tus gráficos más importantes — puedes arrastrar las imágenes directo al README en GitHub)*
-
----
-
 ## ▶️ Cómo reproducir el análisis
 
 1. Clona el repositorio:
